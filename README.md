@@ -1,10 +1,6 @@
 # Docker RVA
 
-Welcome to the Docker RVA Past Meetups page. Here you will find information from past meetup presentations. Any questions contact the organizers
-
-John Zaccone - john.zaccone at gmail dot com
-
-Gil Cintron - gilcintron at gmail dot com
+Welcome to the Docker RVA Past Meetups page. Here you will find information from past meetup presentations.
 
 ## Global Mentor Week
 #### November 17, 2016
