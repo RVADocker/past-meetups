@@ -8,3 +8,4 @@ Welcome to the Docker RVA Past Meetups page. Here you will find information from
 
 [Link to meetup event] (https://www.meetup.com/Docker-Richmond/events/234755308/)
 
+[Link to docker hands-on workshop](http://training.docker.com/category/self-paced-online)
